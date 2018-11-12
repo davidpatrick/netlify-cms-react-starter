@@ -16,7 +16,7 @@ A starter project for creating lightning-fast, offline-first websites with [Netl
 * **[React Snapshot](https://github.com/geelen/react-snapshot)** for pre-rendering to static html so it works without Javascript ⭐️
 * **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
 
-## See also
+## See also 
 
 [Netlify CMS Docs](https://www.netlifycms.org/docs/)  
 [Netlify CMS Repo](https://github.com/netlify/netlify-cms)  
